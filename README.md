@@ -1,10 +1,12 @@
 # Google Font Archive
 
-Archive of (Google Fonts)[https://fonts.google.com/]
+Archive of [Google Fonts](https://fonts.google.com/) as of 2024 Mar 26.
 
-https://github.com/jrnewell/goog-webfont-dl
+## Updating
 
-## Setup
+I included an updater, so you can download any new font in the future.
+
+### Setup
 
 Install nodejs, I use `tj/n`, you can use whatever you want.
 
@@ -13,7 +15,15 @@ Install nodejs, I use `tj/n`, you can use whatever you want.
 Install Dependencies
 
     npm install
-    apt install wget
+
+### Run
+
+    ./update.node.js
+
+This will get all new fonts and update the archive file.
+
+I don't really recommend deleting the archive as running update after
+it is deleted will take a very long time and probably crash.
 
 ## Example
 
@@ -38,6 +48,3 @@ Example Lexand:
         Lexend/Lexend-normal-900.ttf
         Lexend/Lexend-normal-900.woff2
 
-File name description:
-
-    css - contains

@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "goog-webfont-dl": "^1.0.4"
+    "goog-webfont-dl-fork": "github:pjobson/goog-webfont-dl-fork",
+    "mkdirp": "^3.0.1"
   }
 }
