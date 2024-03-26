@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs >
+<font id="NotoColorEmoji" horiz-adv-x="1275" ><font-face
+    font-family="Noto Color Emoji"
+    units-per-em="1024"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="950"
+    descent="-250"
+    alphabetic="0" />
+<glyph unicode=" " />
+<glyph unicode="#" />
+<glyph unicode="*" />
+<glyph unicode="0" />
+<glyph unicode="1" />
+<glyph unicode="2" />
+<glyph unicode="3" />
+<glyph unicode="4" />
+<glyph unicode="5" />
+<glyph unicode="6" />
+<glyph unicode="7" />
+<glyph unicode="8" />
+<glyph unicode="9" />
+<glyph unicode="&#xa9;" />
+<glyph unicode="&#xae;" />
+</font>
+</defs>
+</svg>

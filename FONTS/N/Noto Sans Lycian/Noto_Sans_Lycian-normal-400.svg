@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs >
+<font id="NotoSansLycian" horiz-adv-x="596" ><font-face
+    font-family="Noto Sans Lycian"
+    units-per-em="1000"
+    panose-1="2 11 5 2 4 5 4 2 2 4"
+    ascent="1069"
+    descent="-293"
+    alphabetic="0" />
+<glyph unicode=" " glyph-name="space" horiz-adv-x="260" />
+<glyph unicode="&#xa0;" glyph-name="uni00A0" horiz-adv-x="260" />
+</font>
+</defs>
+</svg>
